@@ -1,0 +1,8 @@
+
+{
+  "name": "Ethiopian Health Advisor",
+  "description": "A comprehensive guide for traditional Ethiopian home remedies and modern health center recommendations based on symptoms and location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
